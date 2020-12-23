@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'mask'
+}
+
+item {
+  id: 2
+  name: 'no_mask'
+}
+
+item {
+  id: 3
+  name: 'nose_mask'
+}
